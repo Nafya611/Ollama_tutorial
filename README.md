@@ -10,11 +10,11 @@ This project demonstrates how to use [Ollama](https://ollama.com/) to run and in
 ## Example Conversation
 Below is a sample interaction with the Jon Snow model using Ollama:
 
-![Start conversation with Jon Snow](attachments/image1.png)
+![Start conversation with Jon Snow](attachments/image.png)
 
-![Jon Snow on power](attachments/image2.png)
+![Jon Snow on power](attachments/image2.jpg)
 
-![Jon Snow farewell](attachments/image3.png)
+![Jon Snow farewell](attachments/image3.jpg)
 
 ## Usage
 1. Install [Ollama](https://ollama.com/)
