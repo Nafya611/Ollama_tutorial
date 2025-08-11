@@ -23,7 +23,7 @@ Below is a sample interaction with the Jon Snow model using Ollama:
    ```powershell
    ollama run jon_snow
    ```
-4. Start chatting with the character!
+4. Start chatting with the character
 
 ## Files
 - `Modelfile`: Model configuration for Ollama
@@ -32,3 +32,4 @@ Below is a sample interaction with the Jon Snow model using Ollama:
 
 ## License
 This project is for educational and demonstration purposes.
+
